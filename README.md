@@ -1,20 +1,16 @@
 ## Hi there 👋
 
 ---
-Sou Desenvolvedor Full Stack .NET e Professor de Programação, com sólida experiência na construção de aplicações web corporativas, APIs e sistemas críticos para negócios, além de atuar no ensino de fundamentos de programação e ciência da computação para um público amplo e diverso.
 
 ## 👨‍💼 Sobre mim
+Sou Desenvolvedor Full Stack .NET e Professor de Programação, com sólida experiência na construção de aplicações web corporativas, APIs e sistemas críticos para negócios, além de atuar no ensino de fundamentos de programação e ciência da computação para um público amplo e diverso.
 
-Sou Professor e Gestor em Tecnologia com atuação em educação, gestão e desenvolvimento de sistemas.
-Tenho experiência prática no desenvolvimento de APIs, aplicações web e arquitetura de software,
-além de sólida vivência em formação técnica e capacitação profissional.
 
 🚀 Foco em:
 - Arquitetura de Software
 - APIs REST
 - Python & .NET
 - IA aplicada
-- Produtos digitais
 
 ---
 
