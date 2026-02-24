@@ -1,4 +1,4 @@
-# Sejam bem vindos! 👋
+# 👽 Humanos, Sejam bem-vindos! 👋
 
 Sou Desenvolvedor Full Stack .NET e Professor de Programação.  
 Construo aplicações web corporativas, APIs e sistemas críticos.
